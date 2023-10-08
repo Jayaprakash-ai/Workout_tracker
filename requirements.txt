@@ -1,0 +1,6 @@
+bcrypt
+cffi
+Django
+pycparser
+pytz
+six
